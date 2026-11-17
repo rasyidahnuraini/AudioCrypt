@@ -1,0 +1,13 @@
+venv/
+__pycache__/
+*.pyc
+
+encrypted/
+decrypted/
+
+*.mp3
+*.wav
+*.acrypt
+
+contoh.txt
+hasil_dekripsi.txt
